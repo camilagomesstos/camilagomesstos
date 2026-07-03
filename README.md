@@ -36,7 +36,7 @@ Projeto desenvolvido utilizando Python, SQL e Looker Studio para análise explor
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *(cole aqui o link do seu LinkedIn)*
+- 💼 LinkedIn: https://www.linkedin.com/in/camila-gomes-stos/
 - 📧 E-mail: cgomes.stos@gmail.com
 
 Obrigado pela visita!
