@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Camila Gomes dos Santos
 
-<!--
-**camilagomesstos/camilagomesstos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduada em Administração
 
-Here are some ideas to get you started:
+📊 Em transição para a área de Análise de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Joinville - SC | Brasil
+
+Tenho 16 anos de experiência nas áreas bancária e contábil e atualmente estou construindo minha carreira em Dados por meio de estudos contínuos e projetos práticos.
+
+## 🚀 Tecnologias que estou aprendendo
+
+- Python
+- SQL
+- PostgreSQL
+- Pandas
+- NumPy
+- Git
+- GitHub
+- Looker Studio
+
+## 📂 Projeto em destaque
+
+### 📊 Análise de Dados - Sample Superstore
+
+Projeto desenvolvido utilizando Python, SQL e Looker Studio para análise exploratória de dados, criação de indicadores e geração de insights para tomada de decisão.
+
+➡️ Veja meus repositórios na aba **Repositories**.
+
+## 🎯 Objetivos
+
+- Desenvolver projetos de Análise de Dados
+- Aprimorar conhecimentos em Python e SQL
+- Aprender Power BI
+- Construir um portfólio sólido para atuar como Analista de Dados
+
+## 📫 Contato
+
+- 💼 LinkedIn: *(cole aqui o link do seu LinkedIn)*
+- 📧 E-mail: cgomes.stos@gmail.com
+
+Obrigado pela visita!
